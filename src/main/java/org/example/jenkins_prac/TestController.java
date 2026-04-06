@@ -14,6 +14,6 @@ public class TestController {
 
     @PostMapping("/a")
     public void printA() {
-        System.out.println("a");
+        System.out.println("abc");
     }
 }
